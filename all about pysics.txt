@@ -1,47 +1,34 @@
 [
 {
-    "id": "1"',
-    
+    "id": "1",
     "chapter": "circular motion",
-    
     "application": "Brainly.in" https://brainly.in/question/1215201#:~:text=1)%20Amusement%20park%20ride.,running%20on%20a%20circular%20track.",
-    
     "formula_page": " https://byjus.com/neet/circular-motion-formulas-for-neet/"
    },
 
    {
-    "id": "2"',
-    
+    "id": "2",
     "chapter": "gravitation",
-    
     "application": "https://byjus.com/questions/state-three-applications-of-universal-law-of-gravitation/#:~:text=Application%20of%20universal%20law%20of,of%20the%20planets%20in%20universe.&text=It%20pulls%20all%20the%20object%20towards%20the%20earth.",
-    
     "formula_page": "https://www.vedantu.com/formula/important-gravitation-formulas-for-jee"
     }'
-
-     "id": "3"',
-    
+   
+   {
+     "id": "3",
     "chapter": "rotational motion",
-    
     "application": "https://courses.lumenlearning.com/physics/chapter/10-3-dynamics-of-rotational-motion-rotational-inertia/",
-    
     "formula_page": "https://courses.lumenlearning.com/physics/chapter/10-3-dynamics-of-rotational-motion-rotational-inertia/"
     },
-    
+   {
+   "id": "4",
+   "chapter": "Modern Physics",
+   "application" : "https://press.princeton.edu/books/hardcover/9780691125862/applications-of-modern-physics-in-medicine",
+   "formula_page" : "https://www.concepts-of-physics.com/physics-formulas.php"
+   },
     {
-    
-    "id": "4 ",
-   "chapter": "Electrostatic Potential and Capacitance ",
-   "application" : "While electric potential measures the ability to perform work on a charge, capacitance measures the ability to store charge. The unit of measurement for capacitance is Coulomb per Voltage (C/V), which is the amount of charge present per voltage applied ",
-   "formula_page" : "https://byjus.com/jee/electric-potential-energy/#:~:text=V%20%3D%20k%20%C3%97%20%5Bq%2Fr%5D&text=V%20%3D%20electric%20potential%20energy,9.0%20%C3%97%20109%20N "
-   
+      "id": "5",
+    "chapter": "Electrostatic Potential and Capacitance ",
+    "application" : "While electric potential measures the ability to perform work on a charge, capacitance measures the ability to store charge. The unit of measurement for capacitance is Coulomb per Voltage (C/V), which is the amount of charge present per voltage applied ",
+    "formula_page" : "https://byjus.com/jee/electric-potential-energy"
    }
-
 ]  
-
-"id": " 4",
-   "chapter": "Electromagnetic Induction ",
-   "application" : " Motors and generators,
-Transformers,Relays,Electric bells and buzzers,Loudspeakers and headphones,
-Actuators such as valves,Magnetic recording and data storage equipment: tape recorders, VCRs, hard disks,MRI machines.",
-   "formula_page" : "https://www.vedantu.com/formula/magnetic-induction-formula "
