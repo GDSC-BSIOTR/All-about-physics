@@ -37,4 +37,10 @@
     "application" : "Quantum mechanics is the branch of physics relating to the very small.",
     "formula_page" : "https://www.livescience.com/33816-quantum-mechanics-explanation.html"
    }
+    {
+      "id": "7",
+    "chapter": "Wave motion",
+    "application" : "https://www.lcse.umn.edu/specs/labs/waves/apps_to_everday.html",
+    "formula_page" : "https://www.entrancei.com/physics-formula/class-12-wave-motion-formulas"
+   }
 ]  
