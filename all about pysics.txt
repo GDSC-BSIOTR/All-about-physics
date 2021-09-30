@@ -27,6 +27,15 @@
     
     "formula_page": "https://courses.lumenlearning.com/physics/chapter/10-3-dynamics-of-rotational-motion-rotational-inertia/"
     },
+    
+    {
+    
+    "id": "4 ",
+   "chapter": "Electrostatic Potential and Capacitance ",
+   "application" : "While electric potential measures the ability to perform work on a charge, capacitance measures the ability to store charge. The unit of measurement for capacitance is Coulomb per Voltage (C/V), which is the amount of charge present per voltage applied ",
+   "formula_page" : "https://byjus.com/jee/electric-potential-energy/#:~:text=V%20%3D%20k%20%C3%97%20%5Bq%2Fr%5D&text=V%20%3D%20electric%20potential%20energy,9.0%20%C3%97%20109%20N "
+   
+   }
 
 ]  
 
