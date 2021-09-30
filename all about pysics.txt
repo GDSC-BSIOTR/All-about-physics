@@ -18,7 +18,8 @@
     
     "formula_page": "https://www.vedantu.com/formula/important-gravitation-formulas-for-jee"
     }'
-
+   
+   {
      "id": "3"',
     
     "chapter": "rotational motion",
@@ -27,6 +28,13 @@
     
     "formula_page": "https://courses.lumenlearning.com/physics/chapter/10-3-dynamics-of-rotational-motion-rotational-inertia/"
     },
+    
+   {
+   "id": "4",
+   "chapter": "Modern Physics",
+   "application" : "https://press.princeton.edu/books/hardcover/9780691125862/applications-of-modern-physics-in-medicine",
+   "formula_page" : "https://www.concepts-of-physics.com/physics-formulas.php"
+   }
 
 ]  
 
