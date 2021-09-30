@@ -30,7 +30,7 @@
 
 ]  
 
-{
+   {
    "id": "4",
    
    "chapter": "Simple harmonium motion ",
@@ -38,4 +38,4 @@
    "application" : " https://www.vedantu.com/iit-jee/simple-harmonic-motion-shm",
   
    "formula_page" : " https://byjus.com/jee/important-simple-harmonic-motion-formulas-for-jee/"
-   },
+    }
