@@ -30,3 +30,9 @@
 
 ]  
 
+"id": " 4",
+   "chapter": "Electromagnetic Induction ",
+   "application" : " Motors and generators,
+Transformers,Relays,Electric bells and buzzers,Loudspeakers and headphones,
+Actuators such as valves,Magnetic recording and data storage equipment: tape recorders, VCRs, hard disks,MRI machines.",
+   "formula_page" : "https://www.vedantu.com/formula/magnetic-induction-formula "
