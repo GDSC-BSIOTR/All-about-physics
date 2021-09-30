@@ -30,5 +30,11 @@
     "chapter": "Electrostatic Potential and Capacitance",
     "application" : "While electric potential measures the ability to perform work on a charge, capacitance measures the ability to store charge. The unit of measurement for capacitance is Coulomb per Voltage (C/V), which is the amount of charge present per voltage applied ",
     "formula_page" : "https://byjus.com/jee/electric-potential-energy"
+   },
+    {
+      "id": "6",
+    "chapter": "Quantum Mechanics",
+    "application" : "Quantum mechanics is the branch of physics relating to the very small.",
+    "formula_page" : "https://www.livescience.com/33816-quantum-mechanics-explanation.html"
    }
 ]  
