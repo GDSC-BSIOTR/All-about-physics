@@ -50,22 +50,28 @@
     "formula_page" : "https://mohammedabbas27.files.wordpress.com/2013/11/moving-charges-and-magnetism.pdf"
    }
     {
-        "id": "8",
+        "id": "9",
         "chapter": "Laws Of Motion"
         "appilcation"":https://blog.praxilabs.com/2021/02/24/applications-of-newtons-laws-of-motion-in-daily-life/",
         "formula_page":"https://studymaterialcenter.in/important-formulas-of-laws-of-motion-class-11-physics-jee-neet/"
     }
      {
-         "id": "9",
-         "chapter": "Friction"
-         "appilcation":"https://byjus.com/physics/friction/",
-         "formula_page":"https://byjus.com/friction-formula/"
-     }
-{
          "id": "10",
+         "chapter": "Friction",
+         "appilcation": "https://byjus.com/physics/friction/",
+         "formula_page":"https://byjus.com/friction-formula/"
+     },
+    {
+         "id": "11",
          "chapter": "Electromagnetism"
          "appilcation":"https://study.com/academy/lesson/technological-applications-of-electromagnetism.html#:~:text=Technological%20applications%20of%20electromagnetism%20include,speakers%2C%20microphones%2C%20and%20doorbells.&text=Electromagnetism%20is%20extremely%20important%20in%20modern%20life.",
          "formula_page":"https://ocw.mit.edu/courses/physics/8-07-electromagnetism-ii-fall-2012/exams/MIT8_07F12_formsheetfinal.pdf"
-     }
+     },
+{
+     "id": "12",
+    "chapter": "momentum",
+    "application": "https://www.researchgate.net/publication/291072070_Applications_of_the_momentum_principle_hydraulic_jump_surge_and_flow_resistance_in_open_channels",
+    "formula_page": "https://byjus.com/linear-momentum-formula/"
+    }
         
 ]  
