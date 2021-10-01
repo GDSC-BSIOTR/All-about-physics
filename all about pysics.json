@@ -61,26 +61,32 @@
          "appilcation":"https://byjus.com/physics/friction/",
          "formula_page":"https://byjus.com/friction-formula/"
      },
-     {  
+      {
          "id": "11",
+         "chapter": "Laws of Reflection"
+         "appilcation":"https://byjus.com/questions/state-the-laws-of-reflection-of-light/#:~:text=State%20The%20Laws%20Of%20Reflection%20Of%20Light%20The,more%20about%20the%20laws%20of%20reflection%20at%20BYJU%27S.",
+         "formula_page":"https://study.com/learn/lesson/reflection-light-formula-examples.html"
+     },
+     {  
+         "id": "12",
          "chapter": "Scalars and Vectors"
          "appilcation":"https://www.physicsclassroom.com/class/1DKin/Lesson-1/Scalars-and-Vectors",
          "formula_page":"https://www.physicsclassroom.com/class/1DKin/Lesson-1/Scalars-and-Vectors"
      },
       {
-          "id":"12"
+          "id":"13"
          "chapter": "Friction",
          "appilcation": "https://byjus.com/physics/friction/",
          "formula_page":"https://byjus.com/friction-formula/"
      },
     {
-         "id": "13",
+         "id": "14",
          "chapter": "Electromagnetism"
          "appilcation":"https://study.com/academy/lesson/technological-applications-of-electromagnetism.html#:~:text=Technological%20applications%20of%20electromagnetism%20include,speakers%2C%20microphones%2C%20and%20doorbells.&text=Electromagnetism%20is%20extremely%20important%20in%20modern%20life.",
          "formula_page":"https://ocw.mit.edu/courses/physics/8-07-electromagnetism-ii-fall-2012/exams/MIT8_07F12_formsheetfinal.pdf"
      },
 {
-     "id": "14",
+     "id": "15",
     "chapter": "momentum",
     "application": "https://www.researchgate.net/publication/291072070_Applications_of_the_momentum_principle_hydraulic_jump_surge_and_flow_resistance_in_open_channels",
     "formula_page": "https://byjus.com/linear-momentum-formula/"
