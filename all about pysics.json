@@ -50,16 +50,21 @@
     "formula_page" : "https://mohammedabbas27.files.wordpress.com/2013/11/moving-charges-and-magnetism.pdf"
    }
     {
-        "id": "8",
+        "id": "9",
         "chapter": "Laws Of Motion"
         "appilcation"":https://blog.praxilabs.com/2021/02/24/applications-of-newtons-laws-of-motion-in-daily-life/",
         "formula_page":"https://studymaterialcenter.in/important-formulas-of-laws-of-motion-class-11-physics-jee-neet/"
     }
      {
-         "id": "9",
+         "id": "10",
          "chapter": "Friction"
          "appilcation":"https://byjus.com/physics/friction/",
          "formula_page":"https://byjus.com/friction-formula/"
      }
-        
+     {  
+         "id": "11",
+         "chapter": "Scalars and Vectors"
+         "appilcation":"https://www.physicsclassroom.com/class/1DKin/Lesson-1/Scalars-and-Vectors",
+         "formula_page":"https://www.physicsclassroom.com/class/1DKin/Lesson-1/Scalars-and-Vectors"
+     }
 ]  
