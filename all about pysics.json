@@ -131,7 +131,12 @@
     "application":"https://courses.lumenlearning.com/physics/chapter/25-3-the-law-of-refraction/",
     "formula_page":"https://courses.lumenlearning.com/physics/chapter/25-3-the-law-of-refraction/"
     },
-
+{
+     "id": "23",
+    "chapter": "communication system",
+    "application":"https://spectrum-instrumentation.com/en/communications-applications#:~:text=Typical%20communications%20applications%20include%20wireless,testing%2C%20antenna%20and%20transmitter%20testing.",
+    "formula_page":"https://learn.careers360.com/physics/communication-systems-chapter/"
+    },
 
 ]  
 
