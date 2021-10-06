@@ -131,7 +131,12 @@
     "application":"https://courses.lumenlearning.com/physics/chapter/25-3-the-law-of-refraction/",
     "formula_page":"https://courses.lumenlearning.com/physics/chapter/25-3-the-law-of-refraction/"
     },
-
+{
+     "id": "21",
+    "chapter": "Thermodynamics",
+    "application":"https://www.brighthubengineering.com/thermodynamics/38344-thermodynamics-integral-part-of-our-life/",
+    "formula_page":"http://mccord.cm.utexas.edu/courses/fall2014/ch301/thermoequations.php"
+    },
 
 ]  
 
