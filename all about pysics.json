@@ -158,7 +158,13 @@
     "formula_page":"https://byjus.com/jee/newtons-law-of-cooling/#:~:text=Newton%E2%80%99s%20Law%20of%20Cooling%20Formula%20Greater%20the%20difference,%2B%20%28T%20o%20%E2%80%93%20T%20s%29%20e%20-kt"
 
     },
-{
+    {
+     "id": "23",
+    "chapter": "Fluid mechanics",
+    "application":"https://www.tandfonline.com/toc/tcfm20/current",
+    "formula_page":"https://onlinecalculator.guru/fluid-mechanics-formulas/t"
+    },
+
      "id": "25",
     "chapter": "work energy power",
     "application":"https://byjus.com/physics/work-energy-power/",
