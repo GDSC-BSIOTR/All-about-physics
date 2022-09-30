@@ -181,5 +181,11 @@
          "chapter": "force"
          "founder": "newton"
      },
+     {   
+         "id":"35"
+         "chapter": "Friction",
+         "appilcation": "https://byjus.com/physics/friction/",
+         "formula_page":"https://byjus.com/friction-formula/"
+     },
 ]  
 
