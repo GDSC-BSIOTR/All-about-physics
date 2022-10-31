@@ -181,5 +181,10 @@
          "chapter": "force"
          "founder": "newton"
      },
+    {
+         "id": "33",
+         "chapter": "Electromagnetic Induction"
+         "founder": "Michael Faraday"
+     }
 ]  
 
