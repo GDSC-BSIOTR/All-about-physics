@@ -177,6 +177,12 @@
     "formula_page":"https://openstax.org/books/university-physics-volume-1/pages/13-5-keplers-laws-of-planetary-motion"
     },
     {
+     "id": "27",
+    "chapter": "genral relivity",
+    "application":"https://chandra.harvard.edu/blog/node/580#:~:text=Although%20this%20theory%20can%20seem,than%20found%20on%20Earth's%20surface.",
+    "formula_page":"https://www.space.com/36273-theory-special-relativity.html"
+    },
+    {
          "id": "30",
          "chapter": "force"
          "founder": "newton"
