@@ -177,6 +177,12 @@
     "formula_page":"https://openstax.org/books/university-physics-volume-1/pages/13-5-keplers-laws-of-planetary-motion"
     },
     {
+     "id": "29",
+    "chapter": "optics",
+    "application":"https://flexbooks.ck12.org/cbook/cbse-physics-class-10/section/1.7/primary/lesson/applications-of-optics-in-daily-life/",
+    "formula_page":"https://byjus.com/physics/power-of-a-lens-ray-optics/"
+    },
+    {
          "id": "30",
          "chapter": "force"
          "founder": "newton"
