@@ -1,21 +1,21 @@
 [
 {
     "id": "1",
-    "chapter": "circular motion",
+    "chapter": "Initialization",
     "application": "https://brainly.in/question/1215201#:~:text=1)%20Amusement%20park%20ride.,running%20on%20a%20circular%20track",
     "formula_page": " https://byjus.com/neet/circular-motion-formulas-for-neet/"
    },
 
    {
     "id": "2",
-    "chapter": "gravitation",
+    "chapter": "Circulation",
     "application": "https://byjus.com/questions/state-three-applications-of-universal-law-of-gravitation/#:~:text=Application%20of%20universal%20law%20of,of%20the%20planets%20in%20universe.&text=It%20pulls%20all%20the%20object%20towards%20the%20earth.",
     "formula_page": "https://www.vedantu.com/formula/important-gravitation-formulas-for-jee"
   },
    
    {
      "id": "3",
-    "chapter": "rotational motion",
+    "chapter": "transition",
     "application": "https://courses.lumenlearning.com/physics/chapter/10-3-dynamics-of-rotational-motion-rotational-inertia/",
     "formula_page": "https://courses.lumenlearning.com/physics/chapter/10-3-dynamics-of-rotational-motion-rotational-inertia/"
     },
