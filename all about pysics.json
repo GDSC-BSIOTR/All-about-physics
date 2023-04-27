@@ -177,6 +177,13 @@
     "formula_page":"https://openstax.org/books/university-physics-volume-1/pages/13-5-keplers-laws-of-planetary-motion"
     },
     {
+     "id": "27",
+    "chapter": "Light",
+    "application":"https://www.britannica.com/science/light",
+    "formula_page":"https://www.britannica.com/science/light"
+    },
+
+    {
          "id": "30",
          "chapter": "force"
          "founder": "newton"
